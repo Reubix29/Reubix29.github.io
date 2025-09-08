@@ -1,2 +1,1 @@
-# Reubix29.github.io
-My personal website
+Theme based on https://github.com/jekyll/minima.
