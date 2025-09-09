@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Publications
 
+This list is still short, as I just started out in my academic career. Research currently in the pipeline includes automatic oral reading fluency assessment and reading prosody assessment methods. Specifically, these methods need to be language-agnostic and work in low-resource settings.
+
 ## Conference Articles
 
 - [Towards few-shot isolated word reading assessment](https://arxiv.org/abs/2507.12217)  

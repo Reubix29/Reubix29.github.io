@@ -1,0 +1,85 @@
+/* CV Two-Column Layout */
+
+.cv-container {
+    display: flex;
+    flex-wrap: wrap; /* makes it responsive */
+    max-width: 1000px;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    overflow: hidden;
+  }
+  
+  .cv-sidebar {
+    flex: 1 1 280px; /* flexible but min width */
+    background: #f4f4f4;
+    padding: 2rem;
+    border-right: 1px solid #ddd;
+  }
+  
+  .cv-main {
+    flex: 2 1 600px; /* main column grows more */
+    padding: 2rem;
+  }
+  
+  .cv-sidebar h2 {
+    font-size: 1.1rem;
+    color: #333;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2rem;
+  }
+  
+  .cv-main h1 {
+    font-size: 2rem;
+    margin-top: 0;
+    color: #222;
+  }
+  
+  .cv-main h2 {
+    margin-top: 2rem;
+    font-size: 1.3rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.3rem;
+  }
+  
+  .cv-main p,
+  .cv-sidebar p,
+  li {
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.5;
+  }
+  
+  .cv-sidebar ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1rem 0;
+  }
+  
+  .cv-sidebar ul li {
+    margin-bottom: 0.4rem;
+  }
+  
+  a {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .cv-container {
+      flex-direction: column;
+    }
+    .cv-sidebar {
+      border-right: none;
+      border-bottom: 1px solid #ddd;
+    }
+  }
+  
