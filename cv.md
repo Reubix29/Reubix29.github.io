@@ -4,8 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-<!-- # <i class="fa-solid fa-robot" style="color:#26547c"></i> <i class="fa-solid fa-keyboard"></i> <i class="fa-solid fa-guitar" style="color:#ef5b5b"></i> <i class="fa-solid fa-music"  style="color:#06d6a0"></i> -->
-
 I am a hard-working and passionate software developer and researcher with a keen interest in Artificial Intelligence and its applications. I am currently working towards completing a PhD in Speech Processing (AI with a focus on human speech) at Stellenbosch University.
 
 ---
@@ -77,7 +75,7 @@ Vocal coaching and arrangement for residence serenade groups.
 ---
 
 ## References
-**Dr. Pieter Jordaan** — CIO & Director, Jericho Systems (Former Employer)
+**Dr. Pieter Jordaan** — CIO & Director, Jericho Systems (Former Employer)  
   <i class="fa-solid fa-user"></i> [jerichosystems.co.za](https://jerichosystems.co.za/contact-us/)  
   <i class="fa-solid fa-envelope"></i> pieter@jerichosystems.co.za  
 
