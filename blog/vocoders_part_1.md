@@ -12,7 +12,7 @@ I had heard of vocoders before, but in terms of speech processing - not musical 
 
 1. How do speech vocoders work under the hood?
 2. How do speech vocoders relate to the vocoders used in the examples above?
-3. How does this relate to something like autotune?
+3. Can I code my own vocoder using basic signal processing principles? 
 
 First, let's look at how the human voice produces speech.
 
